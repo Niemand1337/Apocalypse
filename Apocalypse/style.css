@@ -1,0 +1,45 @@
+body {
+
+    background-color: silver;
+
+}
+
+#header {
+
+    color: crimson;
+    text-align: center;
+    text-decoration: underline gold solid;
+    font-size: 40px;
+
+}
+
+#life {
+
+    margin-left: 5%;
+    color: red;
+    font-style: italic;
+    font-size: 30px;
+
+}
+
+#score {
+
+    margin-left: 5%;
+    font-style: italic;
+    font-size: 30px;
+
+}
+
+#canvas {
+
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: darkgray;
+    border: 5px gold solid;
+    display: block;
+
+
+}
